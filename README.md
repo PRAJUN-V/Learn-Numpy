@@ -27,3 +27,11 @@ pip install numpy
 5. mod5
 - [data types](https://www.w3schools.com/python/numpy/numpy_data_types.asp)
 - array with defined datatype
+
+6. mod6
+- copy vs now
+
+7. mod7
+- array shape
+- array reshape
+- flattening the array
